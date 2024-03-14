@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fatih",
+    "surname": "Alkan",
+    "calismaSaati": 150,
+    "saatlikUcret": 300,
+    "role": "Yonetici",
+    "bonus": 1500
+  },
+  {
+    "name": "Ali",
+    "surname": "Verkan",
+    "calismaSaati": 150,
+    "saatlikUcret": 300,
+    "role": "Yonetici",
+    "bonus": 0
+  },
+  {
+    "name": "Beyazıt",
+    "surname": "Dalgıç",
+    "calismaSaati": 200,
+    "saatlikUcret": 300,
+    "role": "Memur",
+    "derece": "JUNIOR"
+  },
+  {
+    "name": "Mustafa",
+    "surname": "Eken",
+    "calismaSaati": 200,
+    "saatlikUcret": 300,
+    "role": "Memur",
+    "derece": "MID"
+  },
+  {
+    "name": "Ahmet",
+    "surname": "Diken",
+    "calismaSaati": 170,
+    "saatlikUcret": 300,
+    "role": "Memur",
+    "derece": "MID"
+  }
+]

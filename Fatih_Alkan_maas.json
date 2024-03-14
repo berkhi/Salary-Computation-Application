@@ -1,0 +1,12 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Fatih",
+    "calismaSaati": 150,
+    "odemeDetaylari": {
+      "anaOdeme": "₺76500,00",
+      "mesai": "₺0,00",
+      "toplamOdeme": "₺76500,00"
+    }
+  }
+}

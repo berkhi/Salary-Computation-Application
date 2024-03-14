@@ -1,0 +1,12 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Beyazıt",
+    "calismaSaati": 200,
+    "odemeDetaylari": {
+      "anaOdeme": "₺90000,00",
+      "mesai": "₺15000,00",
+      "toplamOdeme": "₺105000,00"
+    }
+  }
+}

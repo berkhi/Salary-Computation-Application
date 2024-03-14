@@ -1,0 +1,12 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Mustafa",
+    "calismaSaati": 200,
+    "odemeDetaylari": {
+      "anaOdeme": "₺108000,00",
+      "mesai": "₺18000,00",
+      "toplamOdeme": "₺126000,00"
+    }
+  }
+}

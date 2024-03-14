@@ -1,0 +1,12 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Ali",
+    "calismaSaati": 150,
+    "odemeDetaylari": {
+      "anaOdeme": "₺75000,00",
+      "mesai": "₺0,00",
+      "toplamOdeme": "₺75000,00"
+    }
+  }
+}

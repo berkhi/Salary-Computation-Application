@@ -1,0 +1,12 @@
+{
+  "bordro": "SUBAT 2020",
+  "personel": {
+    "ismi": "Ahmet",
+    "calismaSaati": 170,
+    "odemeDetaylari": {
+      "anaOdeme": "₺102000,00",
+      "mesai": "₺0,00",
+      "toplamOdeme": "₺102000,00"
+    }
+  }
+}
